@@ -1,6 +1,6 @@
-# MTB_adaptation_to_hypoxia
-This repository contains an R notebook with the scripts for generating the results reported in the revised version of the manuscript:
+# *M. tuberculosis* Adaptation To Hypoxia
+This repository contains an R notebook with the scripts used for generating the results reported in the manuscript published in the Cell Reports journal:
 
-Abidi AA<sup>\*</sup>, Peterson EJR<sup>\*</sup>, Arrieta-Ortiz ML<sup>\*</sup>, Aguilar B, Yurkovich JT, Kaur A, Pan M, Srinivas V, Shmulevich I, Baliga NS. 2019. Intricate genetic programs controlling dormancy in *Mycobacterium tuberculosis*. bioRxiv. doi: https://doi.org/10.1101/709378
+Peterson EJR<sup>\*</sup>, Abidi AA<sup>\*</sup>, Arrieta-Ortiz ML<sup>\*</sup>, Aguilar B, Yurkovich JT, Kaur A, Pan M, Srinivas V, Shmulevich I, Baliga NS. 2020. Intricate genetic programs controlling dormancy in *Mycobacterium tuberculosis*. Cell Reports. https://www.sciencedirect.com/science/article/pii/S221112472030526X
 
 <sup>\*</sup> Co-first authors
